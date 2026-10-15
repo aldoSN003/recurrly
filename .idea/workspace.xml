@@ -5,40 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9e6b3c4-5fba-4423-b0af-61ed4b6a791f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/(auth)/_layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-in.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-up.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/insights.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/settings.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/subscriptions.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/subscriptions/[id].tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/onboarding.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nativewind-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/explore.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/expo.icon/Assets/expo-symbol 2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/expo.icon/Assets/grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/expo.icon/icon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/PlusJakartaSans-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/activity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/adobe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/canva.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/claude.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/dropbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/figma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/medium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/netflix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/notion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/openai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/spotify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/wallet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/expo-badge-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/expo-badge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/expo-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-glow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/splash-pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tabIcons/explore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tabIcons/explore@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tabIcons/explore@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tabIcons/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tabIcons/home@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tabIcons/home@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tutorial-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/icons.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/theme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/insights.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/insights.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/settings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/settings.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/subscriptions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/subscriptions.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/subscriptions/[id].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/subscriptions/[id].tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/modal.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/external-link.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/haptic-tab.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/hello-wave.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/parallax-scroll-view.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/themed-text.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/themed-view.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/collapsible.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/icon-symbol.ios.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ui/icon-symbol.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/theme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/use-color-scheme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/use-color-scheme.web.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/use-theme-color.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/partial-react-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/splash-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/splash-icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/reset-project.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,80 +73,93 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="64" />
+    <option name="cachedIndexableFilesCount" value="112" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aldoSN003&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aldoSN003/recurrly.git&quot;,
+    &quot;accountId&quot;: &quot;8aaa4eec-f576-44e2-b1d8-3e52e9e93643&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0000008679544767" />
-      <entry key="M10" value="1.004700331392053" />
-      <entry key="M15" value="1.1077363295378246" />
-      <entry key="M30" value="4.019751498905736" />
-      <entry key="H1" value="18.187900154706227" />
-      <entry key="H2" value="42.668369927412805" />
-      <entry key="H4" value="66.1174644561661" />
-      <entry key="D1" value="95.63414167260235" />
-      <entry key="W1" value="101.91324769510625" />
+      <entry key="MS100" value="8.933843293462557E-10" />
+      <entry key="MS500" value="0.01549557391778583" />
+      <entry key="S2" value="0.35281896085217307" />
+      <entry key="S5" value="0.6592054156364943" />
+      <entry key="S10" value="0.8119146603162773" />
+      <entry key="S30" value="0.9329137459526229" />
+      <entry key="S60" value="0.9693907193534019" />
+      <entry key="M2" value="1.0670885325166055" />
+      <entry key="M5" value="1.7877732565465756" />
+      <entry key="M10" value="3.9481336430931653" />
+      <entry key="M15" value="8.094513192627893" />
+      <entry key="M30" value="26.747021274755546" />
+      <entry key="H1" value="61.783378618890055" />
+      <entry key="H2" value="108.67249979857186" />
+      <entry key="H4" value="155.1413399134723" />
+      <entry key="D1" value="219.70224947325525" />
+      <entry key="W1" value="234.41731876309004" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.6540134571099273E-81" />
-      <entry key="S2" value="7.177542622504613E-21" />
-      <entry key="S5" value="8.757705000104587E-9" />
-      <entry key="S10" value="9.358261056470154E-5" />
-      <entry key="S30" value="0.04540096166539602" />
-      <entry key="S60" value="0.21307501417434194" />
-      <entry key="M2" value="0.46160049195634745" />
-      <entry key="M5" value="0.7340179098921459" />
-      <entry key="M10" value="0.8589128219610903" />
-      <entry key="M15" value="0.9503420112259652" />
-      <entry key="M30" value="2.0945712715488165" />
-      <entry key="H1" value="6.688487870553556" />
-      <entry key="H2" value="13.8330751366484" />
-      <entry key="H4" value="20.284654144039205" />
-      <entry key="D1" value="28.092109999316172" />
-      <entry key="W1" value="29.71938998132573" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000832898373064" />
+      <entry key="S5" value="1.0233473076182602" />
+      <entry key="S10" value="1.1527982579044675" />
+      <entry key="S30" value="1.5347902233101567" />
+      <entry key="S60" value="1.7686914180522697" />
+      <entry key="M2" value="2.6433366765496484" />
+      <entry key="M5" value="8.47086064894157" />
+      <entry key="M10" value="17.687085738082462" />
+      <entry key="M15" value="24.621906818308524" />
+      <entry key="M30" value="37.5614561616803" />
+      <entry key="H1" value="50.640321476466305" />
+      <entry key="H2" value="64.27521233024443" />
+      <entry key="H4" value="76.7813142112005" />
+      <entry key="D1" value="93.57036324719235" />
+      <entry key="W1" value="97.34008021496527" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.8205144379538158E-23" />
-      <entry key="MS500" value="2.831645130832769E-5" />
-      <entry key="S2" value="0.0729473813636542" />
-      <entry key="S5" value="0.35091658131498993" />
-      <entry key="S10" value="0.592458343245443" />
-      <entry key="S30" value="0.8822476751974244" />
-      <entry key="S60" value="1.1223441912673182" />
-      <entry key="M2" value="1.4110799393105147" />
-      <entry key="M5" value="1.7117139015282636" />
-      <entry key="M10" value="1.8519940097615117" />
-      <entry key="M15" value="2.0501348380654787" />
-      <entry key="M30" value="6.109232593703798" />
-      <entry key="H1" value="24.87154508667905" />
-      <entry key="H2" value="56.49720163754536" />
-      <entry key="H4" value="86.39916496426588" />
-      <entry key="D1" value="123.72559033202269" />
-      <entry key="W1" value="131.63253814536324" />
+      <entry key="MS100" value="0.019370432814563705" />
+      <entry key="MS500" value="0.4593540257606103" />
+      <entry key="S2" value="1.0865351997298844" />
+      <entry key="S5" value="1.533095416130096" />
+      <entry key="S10" value="1.8720451047707263" />
+      <entry key="S30" value="2.426288659317136" />
+      <entry key="S60" value="2.7138571569237415" />
+      <entry key="M2" value="3.6891643513672774" />
+      <entry key="M5" value="10.226915223199494" />
+      <entry key="M10" value="21.599860074240777" />
+      <entry key="M15" value="32.68207049527271" />
+      <entry key="M30" value="64.28023486043728" />
+      <entry key="H1" value="112.40344482498246" />
+      <entry key="H2" value="172.93420362345339" />
+      <entry key="H4" value="231.9143114236325" />
+      <entry key="D1" value="313.2708624487713" />
+      <entry key="W1" value="331.7571373346785" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -140,11 +180,11 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;junie.plugin.stays.banner.dismissed&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/react_native/recurrly&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/react_native/recurrly/assets&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -158,9 +198,12 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\react_native\recurrly\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\react_native\recurrly\app\(tabs)" />
       <recent name="C:\react_native\recurrly\app" />
+      <recent name="C:\react_native\recurrly\app\(tabs)" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -181,7 +224,10 @@
       <workItem from="1791843923966" duration="1243000" />
       <workItem from="1791845181429" duration="3430000" />
       <workItem from="1791854733782" duration="1062000" />
-      <workItem from="1791939294962" duration="318000" />
+      <workItem from="1791939294962" duration="4166000" />
+      <workItem from="1792093095065" duration="2188000" />
+      <workItem from="1792095298058" duration="656000" />
+      <workItem from="1792095980267" duration="2369000" />
     </task>
     <servers />
   </component>
