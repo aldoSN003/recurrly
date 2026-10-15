@@ -17,6 +17,18 @@
     --color-destructive: #dc2626;
     --color-subscription: #8fd1bd;
 
+    --font-sans: sans-regular;
+    --font-sans-light: sans-light;
+    --fonts-sans-medium: sans-medium;
+    --fonts-sans-semibold: sans-semibold;
+    --font-sansa-bold: sans-bold;
+    --font-sans-extrabold: sans-extrabold;
+
+
+
+
+
+
     --spacing-0: 0px;
     --spacing-1: 4px;
     --spacing-2: 8px;
